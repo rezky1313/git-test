@@ -1,5 +1,5 @@
 //sebelum major update
-//module github.com/rezky1313/git-test
+//module githubcom/rezky1313/git-test
 
 //setelah major update
 module github.com/rezky1313/git-test/v2
